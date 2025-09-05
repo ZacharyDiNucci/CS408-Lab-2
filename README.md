@@ -1,29 +1,13 @@
-# web-dev-starter
+# Project 1 - Basic Website
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+- Name: Zachary DiNucci
+- Email: zachdinucci@u.boisestate.edu
+- Class: 408-001
 
-## Getting Started
+## Known Bugs or Issues
 
-To get started, clone this repository and run the following commands:
+Currently there are no Bugs or Issues that I know of and this was a pretty straight forward assignment mostly related to modifying existing html, css, and javascript in order to refresh ourselves on this assignment.
 
-```bash
-npm install
-```
-This will install the necessary dependencies for the project.
+## Experience
 
-## Development
-
-It is recommended to use the VSCode Live Server extension to run the project
-locally. This will allow you to see changes in real-time as you make them. There
-is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
-
-## Testing
-
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+I have done alot of work with HTML and CSS and so it was nice to have an easier refresher with this assignment. I do feel like my JS experienc could be improved so I am excited to get the time to work on that and improve my skills with that.
